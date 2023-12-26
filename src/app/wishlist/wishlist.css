@@ -1,0 +1,28 @@
+  
+.sw{
+    height: 300px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/background/bg-shape.jpg)
+}
+.sw1{
+text-align: center;
+   font-family: sofia;
+   font-size: 80px;
+}
+.sw2{
+    text-align: center;
+       font-family: sofia;
+       font-size: 30px;
+    }
+
+ 
+    .swb{
+        height: 30px;
+        width: 110px;
+        line-height: 26px;
+        background: green;
+        border:none;
+      }
+
+      .swb:hover{
+        background: red;
+      }

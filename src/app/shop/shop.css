@@ -1,0 +1,68 @@
+/* '''''''''''''''''''''''''''page''''''''''''''''''''''''''''''' */
+
+.sh{
+   min-height: 600px;
+  border: 1px solid black;
+   
+}
+
+
+.m{
+    font-size: 18px;
+    font-family: sofia;
+    margin-top:5px ;
+}
+
+.bbe{
+    min-height: 150px;
+    border: 1px solid gray;
+  
+    
+}
+
+.bbbe{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.line{
+    color:black;
+}
+
+/* '''''''''''''''''''''''''''page''''''''''''''''''''''''''''''' */
+
+
+
+
+
+
+
+/* ''''''''''''''''''''''''''''''''''''shop''''''''''''''''''''''''''''''' */
+.shop{
+ height: 500px;
+ width:950px; 
+ 
+}
+
+.bb{
+    height: 150px;
+    width:700px;
+    border: 2px solid gray;
+    margin-left: 25px;
+    
+}
+.bbb{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.w{
+    font-size: 15px;
+    text-align: right;
+}
+/* ''''''''''''''''''''''''''''''''''''shop''''''''''''''''''''''''''''''' */

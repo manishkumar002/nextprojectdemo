@@ -1,0 +1,17 @@
+
+.nums {
+    font-size: 80px;
+    text-align: right;
+    color:#747875;
+    margin-left: 150px;
+    font-weight: 900;
+}
+  
+.nums:hover {
+   
+   color: #747875;
+    transform: scale(1.5) rotate(-9deg);
+ 
+}
+
+

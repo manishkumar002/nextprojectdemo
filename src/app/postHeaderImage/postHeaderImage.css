@@ -1,0 +1,98 @@
+
+.imI{
+    min-height: 500px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/detail/pic2.jpg);
+    background-size: 100% 100%;
+  }
+.imb{
+    background: rgba(0, 0, 0, 0.7);
+   
+}
+.mm{
+    font-family: sofia;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+   
+   }
+   .bpI{
+    margin-top:50px;
+      min-height: 150px;
+      background-color: #f0ebeb;
+      border-left: 4px solid red;
+  }
+
+
+  .bpI5{
+    height: 400px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+    background-size: 100% 100%;
+  
+  }
+  .bpI1{
+    height: 400px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic2.jpg);
+    background-size: 100% 100%;
+  
+  }
+  .bpI2{
+    height: 400px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic3.jpg);
+    background-size: 100% 100%;
+  
+  }
+  .bpI3{
+    height: 500px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic4.jpg);
+    background-size: 100% 100%;
+  
+  }
+  .bpI4{
+    height: 500px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+    background-size: 100% 100%;
+  
+  }
+
+  .bpI6{
+    height: 500px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/blog/detail/pic3.jpg);
+    background-size: 100% 100%;
+  
+  }
+
+  .bI1{
+
+    min-height: 200px;
+    background-color: #f0ebeb;
+ 
+}
+
+
+
+.imbI{
+
+    min-height: 500px;
+    width: 450px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+    background-size: 100% 100%;
+  }
+  
+  .imbI1{
+  
+    min-height: 500px;
+    width: 450px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic2.jpg);
+    background-size: 100% 100%;
+  }
+  
+  .bcbI{
+    background-color: white;
+    min-height:100px ;
+    color: black;
+    font-size: 20px;
+    font-family: sofia;
+    margin-top: 320px;
+  }
+

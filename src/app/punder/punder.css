@@ -1,0 +1,17 @@
+.pu{
+    height: 400px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/circle-lines.png);
+    background-size: 100% 100%;
+}
+
+.pu1{
+    height: 900px;
+    background: #dbdbdb;
+}
+
+.pu2{
+    margin-top:40px;
+    min-height: 850px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/registration/pic1.png);
+    background-size: 100% 100%;
+}

@@ -1,0 +1,86 @@
+.bp{
+  margin-top:50px;
+    min-height: 150px;
+    background-color: #f0ebeb;
+    border-left: 4px solid red;
+}
+.bp1{
+
+    min-height: 200px;
+    background-color: #f0ebeb;
+ 
+}
+ .mm{
+  font-family: sofia;
+  font-size: 50px;
+ 
+ }
+.imp{
+  height: 500px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/detail/pic1.jpg);
+  background-size: 100% 100%;
+}
+
+.bpp{
+  height: 200px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+  background-size: 100% 100%;
+
+}
+.bpp1{
+  height: 200px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic2.jpg);
+  background-size: 100% 100%;
+
+}
+.bpp2{
+  height: 200px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic3.jpg);
+  background-size: 100% 100%;
+
+}
+.bpp3{
+  height: 400px;
+  width: 400px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic4.jpg);
+  background-size: 100% 100%;
+
+}
+.bpp4{
+  height: 400px;
+  width: 400px;
+  background:url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+  background-size: 100% 100%;
+
+}
+
+.bpp5{
+  min-height: 400px;
+  width: 400px;  
+
+}
+
+.imbc{
+
+  min-height: 500px;
+  width: 390px;
+  background: url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic1.jpg);
+  background-size: 100% 100%;
+}
+
+.imbc1{
+
+  min-height: 500px;
+  width: 390px;
+  background: url(https://mooncart.dexignzone.com/xhtml/images/blog/blogpost-3/pic2.jpg);
+  background-size: 100% 100%;
+}
+
+.bcbg{
+  background-color: black;
+  min-height:100px ;
+  color: white;
+  font-size: 20px;
+  font-family: sofia;
+  margin-top: 320px;
+}

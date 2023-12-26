@@ -1,0 +1,48 @@
+
+.con {
+    background-color: black;
+    height: 600px;
+}
+
+@media screen and  (min-width: 375px) and (max-width: 1000px){
+    .con {
+        min-height: 1350px;
+        background-color: #222;
+    
+    }
+    .lo{
+     transform: translateY(-350px);
+     min-height: 500px;
+   
+    }
+ 
+}
+
+.w2{
+    color:white;
+    font-size: 50px;
+    font-family: sofia;
+    margin-top: 50px;
+}
+.w3{
+    color:white;
+    font-size: 40px;
+    font-family: sofia;
+   
+}
+.w4{
+    color:white;
+    font-size: 30px;
+    font-family: sofia;
+   
+}
+
+.lo{
+    height: 500px;
+    width: 410px;
+    background-color: white;
+    z-index: 1;
+    margin-top: 220px;
+    box-shadow: 10px 10px 50px  white;
+  
+}

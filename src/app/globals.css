@@ -1,0 +1,104 @@
+
+.h{
+    height: 80px;
+}
+
+ul li{
+    float: left;
+    list-style-type: none;
+    margin: 20px;
+}
+
+ .box{
+  background-color: lightgrey;
+ }
+.font{
+  font-size: 60px;
+  font-family: sofia;
+  text-align: center;
+  margin-top: 190px;
+}
+.small-font{
+  font-size: 28px;
+  font-family: sofia;
+  text-align: center;
+ 
+}
+@media (max-width: 767px) {
+  .cart-button,
+  .details-button {
+    width: 50%;
+    margin-top: 20px;
+   
+  }
+}
+
+.bro{
+  background-color: black;
+}
+
+@media (max-width: 767px) {
+  .bro {
+    display: none;
+   
+  }
+}
+
+
+/* ....................box images start......................... */
+
+
+
+.imga{
+
+  min-height: 600px;
+  background: url(https://mooncart.dexignzone.com/xhtml/images/shop/product1.png);
+  background-size: 100% 100%;
+}
+
+.imga1{
+
+  min-height: 290px;
+  background: url(https://mooncart.dexignzone.com/xhtml/images/shop/product2.png);
+  background-size: 100% 100%;
+  
+}
+
+.imga2{
+
+  min-height: 280px;
+  background: url(https://mooncart.dexignzone.com/xhtml/images/shop/product3.png);
+  background-size: 100% 100%;
+}
+
+
+.fontt{
+  font-size: 40px;
+  font-family: sofia;
+ 
+}
+
+
+.fontts{
+  font-size: 30px;
+  font-family: sofia;
+ 
+}
+
+
+.fonttss{
+  margin-left: 350px;
+  font-size: 30px;
+  font-family: sofia;
+ 
+}
+
+@media (max-width: 767px) {
+  .fonttss{
+    margin-left: 180px;
+    width: 50%;
+    font-size: 20px;
+  }
+}
+
+

@@ -1,0 +1,47 @@
+  
+.pc{
+    height: 300px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/background/bg-shape.jpg)
+}
+.pc1{
+text-align: center;
+   font-family: sofia;
+   font-size: 80px;
+}
+.pc2{
+    text-align: center;
+       font-family: sofia;
+       font-size: 30px;
+    }
+
+.pc3{
+    min-height: 400px;
+    background: #dbdbdb;
+    max-width: 490px;
+ 
+}
+
+
+.pcb{
+    height: 50px;
+    width: 360px;
+    border: none;
+    background: red;
+    color:white;
+}
+
+
+.pcb1{
+    min-height: 100px;
+    width: 360px;
+    border: none;
+}
+
+.pcb2{
+    min-height: 50px;
+    width: 360px;
+    border: none;
+    background: black;
+    color:white
+}
+

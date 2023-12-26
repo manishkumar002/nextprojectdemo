@@ -1,0 +1,48 @@
+.pr{
+    height: 900px;
+    background: #dbdbdb;
+}
+
+
+.pr1{
+    min-height: 600px;
+  
+  max-width: 500px;
+  margin: 0px auto;
+  border:2px solid #dbdbdb;
+  margin-top:150px;  
+}
+
+@media screen and  (min-width: 375px) and (max-width: 1000px){
+    .pr1 {
+     
+        margin-top:5px;  
+    
+    }
+ 
+}
+.pr2{
+  font-size:50px;
+  font-family:sofia;
+  text-align:center;
+}
+
+.pr3{
+    font-size:18px;
+    font-family:sofia;
+    text-align:center;
+  }
+
+
+  .bpr{
+    font-size: 14px;
+    height: 50px;
+    border:2px solid #dbdbdb;
+
+  
+  }
+
+  .bpr:hover{
+     background:black;
+     color:white;
+  }

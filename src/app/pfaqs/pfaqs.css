@@ -1,0 +1,48 @@
+  
+.pf{
+    height: 300px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/background/bg-shape.jpg)
+}
+.pf1{
+text-align: center;
+   font-family: sofia;
+   font-size: 40px;
+}
+.pf2{
+    text-align: center;
+       font-family: sofia;
+       font-size: 20px;
+    }
+
+  .advertisers-service-sec .service-card {
+    width: 100%;
+    min-height: 280px;
+    padding: 2em 1.5em;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+    background: #fff;
+  } 
+  .advertisers-service-sec .service-card::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#03d3fc,#dbdbdb);
+    position: absolute;
+    left: 0%;
+    top: -98%;
+    z-index: -2;
+    transition: all 0.4s cubic-bezier(0.77, -0.04, 0, 0.99);
+  }
+
+  .advertisers-service-sec .service-card:hover:after {
+    top: 0%;
+  }
+  
+
+
+   

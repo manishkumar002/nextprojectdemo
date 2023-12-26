@@ -1,0 +1,48 @@
+.ps{
+    height: 900px;
+    background: #dbdbdb;
+}
+
+
+.ps1{
+    min-height: 500px;
+  
+  max-width: 400px;
+  margin: 0px auto;
+  border:2px solid #dbdbdb;
+  margin-top:180px;  
+}
+
+@media screen and  (min-width: 375px) and (max-width: 1000px){
+    .ps1 {
+     
+        margin-top:5px;  
+    
+    }
+ 
+}
+.ps2{
+  font-size:50px;
+  font-family:sofia;
+  text-align:center;
+}
+
+.ps3{
+    font-size:18px;
+    font-family:sofia;
+    text-align:center;
+  }
+
+
+  .bps{
+    font-size: 14px;
+    height: 50px;
+    border:2px solid #dbdbdb;
+
+  
+  }
+
+  .bps:hover{
+     background:black;
+     color:white;
+  }

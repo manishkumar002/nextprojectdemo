@@ -1,0 +1,469 @@
+.sd{
+    height: 300px;
+    background:url(https://mooncart.dexignzone.com/xhtml/images/background/bg-shape.jpg)
+}
+.sd1{
+text-align: center;
+   font-family: sofia;
+   font-size: 50px;
+}
+.sd2{
+    text-align: center;
+       font-family: sofia;
+       font-size: 28px;
+    }
+
+
+.bdtt1{
+   height: 40px;
+width: 100px;
+ border: none;
+ background:none;
+ margin-left: 80px; 
+  
+}
+
+.bdtt2{
+   height: 30px;
+width: 120px;
+border: 1px solid #dbdbdb;
+background:none; 
+   margin-left: 300px;
+}
+
+
+.bdtt3{
+   height: 30px;
+  width: 100px;
+  border: 1px solid #dbdbdb;
+background:none; 
+   margin-left: 20px;
+}
+
+.bdtt4{
+   height: 30px;
+  width: 220px;
+  border:none;
+background:none; 
+   margin-left: 450px;
+}
+
+.bdtt5{
+   height: 30px;
+  width: 160px;
+  border-left:2px solid #dbdbdb;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+   background:none; 
+   margin-left: 50px;
+}
+
+.bdtt6{
+   height: 30px;
+  width: 150px;
+  border-left:2px solid #dbdbdb;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+   background:none;
+   /* margin-left: 80px; */
+}
+
+.bdtt7{
+    height: 40px;
+ width: 30px;
+  border: none;
+  background:none;
+ 
+ }
+
+ .bdtt8{
+    height: 40px;
+ width: 30px;
+  border: none;
+  background:none;
+  
+ }
+
+ .bdtt9{
+    height: 40px;
+ width: 30px;
+  border: none;
+  background:none;
+   
+ }
+
+ 
+
+
+@media screen and  (min-width: 375px) and (max-width: 1000px){
+
+    .bdtt1{
+        margin-left: 5px;
+       
+     }
+   .bdtt2{
+      margin-left: 10px;
+      display: none;
+   }
+   .bdtt3{
+      margin-left: 10px;
+      display: none;
+   } .bdtt4{
+      margin-left: 10px;
+     
+   } .bdtt5{
+      margin-left: 10px;
+     
+   } .bdtt6{
+      /* margin-left: 10px; */
+      margin-left: 10px;
+   }.bdtt7{
+    margin-left: 100px;
+   
+ }
+
+}
+
+
+
+
+
+
+        /* ........................start card''''''''''''''''''''''''''''''''''' */
+
+  /* Icon set - http://ionicons.com */
+  @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,700);
+  @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+  .snip1268 {
+    font-family: 'Raleway', Arial, sans-serif;
+    position: relative;
+    overflow: hidden;
+    margin: 2px;
+    width: 100%;
+    color: #333333;
+    /* text-align: center; */
+    background-color: #ffffff;
+    line-height: 1.6em;
+  }
+  .snip1268 * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.6s ease;
+    transition: all 0.6s ease;
+  }
+  .snip1268 .image {
+    position: relative;
+  }
+  .snip1268 img {
+    max-width: 100%;
+    vertical-align: top;
+    -webkit-transition: opacity 0.35s;
+    transition: opacity 0.35s;
+  }
+  .snip1268 .icons,
+  .snip1268 .add-to-cart {
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    opacity: 0;
+  }
+  
+  
+  
+  .snip1268 .add-to-cart {
+    position: absolute;
+    bottom: 20px;
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+    font-size: 0.8em;
+    line-height: 46px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+  }
+  
+  .snip1268 figcaption {
+    padding: 20px 20px 30px;
+  }
+  .snip1268 h2,
+  .snip1268 p {
+    margin: 0;
+    text-align: left;
+  }
+  .snip1268 h2 {
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  .snip1268 p {
+    margin-bottom: 15px;
+    font-size: 0.85em;
+    font-weight: 500;
+  }
+  .snip1268 .price {
+    font-size: 1.1em;
+    opacity: 0.5;
+    font-weight: 700;
+    text-align: right;
+  }
+  .snip1268:hover img,
+  .snip1268.hover img {
+    opacity: 0.8;
+  }
+  .snip1268:hover .icons,
+  .snip1268.hover .icons,
+  .snip1268:hover .add-to-cart,
+  .snip1268.hover .add-to-cart {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+  
+  
+    /* ........................end card''''''''''''''''''''''''''''''''''' */
+
+
+
+
+
+
+    /* ........................textcard''''''''''''''''''''''''''''''''''' */
+
+
+    .tex{
+      margin-left:300px
+    }
+    .texs{
+      margin-left:200px;
+      font-size:15px;
+      font-family:sofia;
+    }
+
+    .para{
+      font-size:17px;
+      font-family:sofia;
+    }
+
+    .bdt10{
+      height: 30px;
+     border: none;
+     background:none;
+    
+   }
+
+   .bdt12{
+      height: 40px;
+      width:150px;
+     border: none;
+     background:black;
+     color:white;
+     margin-left:150px;
+   }
+
+   .bdt12:hover{
+    background:red;
+    color:black;
+   }
+
+   .bdt13{
+      height:40px;
+         width:50px ;
+         margin-left:5px;
+         border:none;
+         background:black;
+         color:red
+   }
+
+   .bdt14{
+    height:40px;
+    width:50px ;
+    margin-left:5px;
+    border:none;
+    background:black;
+    color:red;
+    display:none;
+    
+   }
+
+
+    @media screen and  (min-width: 375px) and (max-width: 1000px){
+      .tex{
+         margin-left:20px;
+      }
+      .texs{
+         margin-left:50px;
+      }
+      .para{
+        display:none;
+      }
+       .bdt11{
+         margin-left:20px;
+       }
+       .bdt12{
+         margin-left:20px;
+         display:none;
+
+      }
+      .bdt13{
+         margin-left:100px;
+      }
+      .bdt14{
+         margin-left:230px;
+         margin-top: -40px;
+         display:block;
+      }
+   }
+   
+
+    .ssimm{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/1.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm1{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/2.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm2{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/3.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm3{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/4.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm4{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/5.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+
+    .ssimm5{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/6.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm6{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/7.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    .ssimm7{
+      background:url(https://mooncart.dexignzone.com/xhtml/images/shop/product/8.png);
+      background-size:100% 100%;
+      height:300px
+    }
+
+
+    
+
+    /* ........................text card end''''''''''''''''''''''''''''''''''' */
+
+
+
+
+      /* ........................minPrice and maxPrice''''''''''''''''''''''''''''''''''' */
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+.price-input {
+  width: 100%;
+  display: flex;
+  margin: 30px 0 35px;
+}
+.price-input .field {
+
+}
+.field input {
+  width: 100%;
+  height: 100%;
+  border:none;
+}
+
+.slider {
+  height: 5px;
+  position: relative;
+  background: #ddd;
+  border-radius: 5px;
+}
+.slider .progress {
+  height: 100%;
+  left: 25%;
+  right: 25%;
+  position: absolute;
+  border-radius: 5px;
+  background: #17a2b8;
+}
+.range-input {
+  position: relative;
+}
+.range-input input {
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  top: -5px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  background: #17a2b8;
+  pointer-events: auto;
+  -webkit-appearance: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+input[type="range"]::-moz-range-thumb {
+  height: 17px;
+  width: 17px;
+  border: none;
+  border-radius: 50%;
+  background: #17a2b8;
+  pointer-events: auto;
+  -moz-appearance: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+
+
+  /* ........................minPrice and maxPrice''''''''''''''''''''''''''''''''''' */
+
+
+
+  .bbbs{
+    height: 40px;
+    width: 55px;
+    border:1px solid #dbdbdb;
+    line-height:40px;
+    font-size:20px;
+}
+
+.bbbs:hover{
+  background:black;
+  color:white;
+}

@@ -1,0 +1,18 @@
+.pc{
+    height: 400px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/circle-lines.png);
+    background-size: 100% 100%;
+}
+
+
+
+.pc2{
+    min-height: 850px;
+    background: url(https://mooncart.dexignzone.com/xhtml/images/circle-lines2.png);
+    background-size: 100% 100%;
+}
+
+.pc3{
+    height: 400;
+    background: #dbdbdd;
+}
